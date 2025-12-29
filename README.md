@@ -1,7 +1,7 @@
 # Online-Bulletin-Board-Web-Application
 Description: Apache Tomcat 10.1.x 환경에서 JSP와 MySQL을 연동하여 학생 정보 관리 및 게시판 기능을 갖춘 웹 애플리케이션 개발.
 
-## Key Achievements:
+## Key Achievements
 
 ### Database Integration
 JDBC Driver를 설정하고, auto_increment 속성을 가진 테이블을 설계하여 데이터 무결성을 유지하며 게시글 데이터를 관리함.
