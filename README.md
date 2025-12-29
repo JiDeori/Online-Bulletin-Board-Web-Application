@@ -1,5 +1,5 @@
 # Online-Bulletin-Board-Web-Application
-Description: Apache Tomcat 10.1.x 환경에서 JSP와 MySQL을 연동하여 학생 정보 관리 및 게시판 기능을 갖춘 웹 애플리케이션 개발.
+Description: Apache Tomcat 11.0.0 환경에서 JSP와 MySQL을 연동하여 학생 정보 관리 및 게시판 기능을 갖춘 웹 애플리케이션 개발.
 
 ## Key Achievements
 
